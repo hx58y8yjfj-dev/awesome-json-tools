@@ -28,6 +28,12 @@ A curated list of JSON formatters, validators, API debugging tools, and librarie
 
 ---
 
+## Desktop Tools
+
+- [Glim](https://github.com/NeoPanic/Glim) - Free, open-source macOS file viewer with a tree view for exploring local JSON files.
+
+---
+
 ## CLI Tools
 
 - [jq](https://stedolan.github.io/jq/) - Lightweight command-line JSON processor.
